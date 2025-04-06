@@ -1,0 +1,52 @@
+[
+  {
+    "serial": 1,
+    "question": "What is the difference between var, let, and const?",
+    "answer": "'var' is function-scoped and can be redeclared, 'let' is block-scoped and can be reassigned, 'const' is block-scoped and cannot be reassigned."
+  },
+  {
+    "serial": 2,
+    "question": "What is a closure in JavaScript?",
+    "answer": "A closure is a function that retains access to its outer scope even after the outer function has finished execution."
+  },
+  {
+    "serial": 3,
+    "question": "What are JavaScript promises?",
+    "answer": "Promises are objects representing the eventual completion or failure of an asynchronous operation, with states: pending, fulfilled, or rejected."
+  },
+  {
+    "serial": 4,
+    "question": "What is the event loop in JavaScript?",
+    "answer": "The event loop is a mechanism that handles asynchronous operations in JavaScript, allowing non-blocking execution."
+  },
+  {
+    "serial": 5,
+    "question": "How does the 'this' keyword work in JavaScript?",
+    "answer": "The value of 'this' depends on how a function is called. In global scope, it refers to the global object, while in a method, it refers to the object that owns the method."
+  },
+  {
+    "serial": 6,
+    "question": "What is the difference between == and === in JavaScript?",
+    "answer": "'==' checks for value equality with type coercion, whereas '===' checks for both value and type equality."
+  },
+  {
+    "serial": 7,
+    "question": "What is an arrow function in JavaScript?",
+    "answer": "An arrow function is a shorter syntax for defining functions. It does not have its own 'this' and is useful in callbacks and functional programming."
+  },
+  {
+    "serial": 8,
+    "question": "What is the difference between null and undefined?",
+    "answer": "'undefined' means a variable has been declared but not assigned a value, while 'null' is an intentional absence of a value."
+  },
+  {
+    "serial": 9,
+    "question": "What is hoisting in JavaScript?",
+    "answer": "Hoisting is JavaScript's behavior of moving variable and function declarations to the top of their scope before execution."
+  },
+  {
+    "serial": 10,
+    "question": "What are JavaScript data types?",
+    "answer": "JavaScript has primitive types (String, Number, Boolean, Null, Undefined, Symbol, BigInt) and reference types (Objects, Arrays, Functions)."
+  }
+]
